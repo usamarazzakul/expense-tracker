@@ -65,7 +65,7 @@ While the source code is private, the application is built utilizing modern Andr
 
 | Home Dashboard | Add Transaction | Financial Summary | Savings Goals |
 | :---: | :---: | :---: | :---: |
-| <img src="link_to_home.png" width="200"/> | <img src="link_to_add.png" width="200"/> | <img src="link_to_summary.png" width="200"/> | <img src="link_to_goals.png" width="200"/> |
+| <img src="home_ss.png" width="200"/> | <img src="add_ss.png" width="200"/> | <img src="summary_ss.png" width="200"/> | <img src="goals_ss.png" width="200"/> |
 
 ---
 
