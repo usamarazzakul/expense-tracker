@@ -1,4 +1,4 @@
-# Expense Tracker
+..# Expense Tracker
 
 Welcome to the official release repository for **Expense Tracker**. This repository is dedicated exclusively to distributing the latest release APK for users who want to manage their personal finances seamlessly.
 
