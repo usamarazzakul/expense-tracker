@@ -5,6 +5,7 @@ Welcome to the official release repository for **Expense Tracker**. This reposit
 *Please note: The source code is closed-source and not hosted in this repository.*
 
 ---
+---
 
 ## 📱 About the App
 
